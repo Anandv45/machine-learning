@@ -1,0 +1,3 @@
+pip install protobuf==3.20.*
+pip install streamlit
+stremlit run "C:\Users\NCJ-CL\Music\anand.py"
